@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 __pycache__
+algorithm
+!algorithm/algorithm.tex
+!algorithm/algorithm.pdf

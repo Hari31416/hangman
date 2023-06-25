@@ -13,29 +13,31 @@
 % USE pdflatex --shell-escape algorithm.tex to compile
 \begin{document}
 \maketitle
-\section{Problem Statement}
-The problem statement, as copied from the given notebook reads:
+\section{What is Hangman?}
+Hangman is a popular word-guessing game that has entertained players of all ages for decades. The objective of the game is to guess an unknown word by guessing individual letters one at a time. It is a game of deduction, strategy, and a bit of luck.
 
-For this coding test, your mission is to write an algorithm that plays the game of Hangman through our API server.
+The game begins with one player, often referred to as the "hangman," choosing a word. The chosen word is typically kept secret from the other player, known as the "guesser." The guesser's task is to uncover the secret word by suggesting letters that may be part of it. If the guesser suggests a correct letter, it is revealed in its correct position(s) within the word. However, if the guesser suggests an incorrect letter, a part of the hangman's figure, often drawn as a stick figure, is gradually revealed, symbolizing the number of incorrect guesses.
 
-When a user plays Hangman, the server first selects a secret word at random from a list. The server then returns a row of underscores (space separated)—one for each letter in the secret word—and asks the user to guess a letter. If the user guesses a letter that is in the word, the word is redisplayed with all instances of that letter shown in the correct positions, along with any letters correctly guessed on previous turns. If the letter does not appear in the word, the user is charged with an incorrect guess. The user keeps guessing letters until either:
+The user keeps guessing letters until either:
 \begin{enumerate}
     \item the user has correctly guessed all the letters in the word
     \item the user has made six incorrect guesses.
 \end{enumerate}
 
-You are required to write a "guess" function that takes current word (with underscores) as input and returns a guess letter. You will use the API codes below to play 1,000 Hangman games. You have the opportunity to practice before you want to start recording your game results.
+The goal is to write an algorithm that can play Hangman successfully. The algorithm will be given a masked string (e.g. \verb|a _ _ l e|). The algorithm must guess the letters in the masked string in the correct order. The algorithm will be given a maximum of six incorrect guesses before it loses the game. The algorithm wins if it correctly guesses all the letters in the masked string before it runs out of guesses. Note that \textit{the algorithm will not have access to the dictionary of words that the masked string was drawn from}.
 
-Your algorithm is permitted to use a training set of approximately 250,000 dictionary words. Your algorithm will be tested on an entirely disjoint set of 250,000 dictionary words. Please note that this means the words that you will ultimately be tested on do NOT appear in the dictionary that you are given. You are not permitted to use any dictionary other than the training dictionary we provided. This requirement will be strictly enforced by code review.
+\section{The Benchmark Strategy}
 
-You are provided with a basic, working algorithm. This algorithm will match the provided masked string (e.g. \verb|a _ _ l e|) to all possible words in the dictionary, tabulate the frequency of letters appearing in these possible words, and then guess the letter with the highest frequency of appearance that has not already been guessed. If there are no remaining words that match then it will default back to the character frequency distribution of the entire dictionary.
+To write an algorithm, I have used a dictionary of about $250000$ words. One straightforward strategy is to guess the letter with the highest frequency of appearance in the dictionary. This algorithm will match the provided masked string (e.g. \verb|a _ _ l e|) to all possible words in the dictionary, tabulate the frequency of letters appearing in these possible words, and then guess the letter with the highest frequency of appearance that has not already been guessed. If there are no remaining words that match then it will default back to the character frequency distribution of the entire dictionary.
 
-This benchmark strategy is successful approximately 18\% of the time. Your task is to design an algorithm that significantly outperforms this benchmark.
 
-\section{Solution}
+If the algorithm has access to the dictionary, it can be very accurate (See the following section.). However, this is not the case and hence this strategy is not very accurate. This benchmark strategy is successful approximately 18\% of the time.
+
 \subsection{A Note on the Benchmark Strategy}
 The benchmark strategy, which uses the frequency of letters in the dictionary to guess the next letter, is a very simple strategy, and it works well, given that the word we want to guess is in the dictionary. In fact, this strategy works almost 93\% of time if you are using the same dictionary. I tried it on 80\% words of the training dataset, and it gave an accuracy of about 93\%. However, on the other 20\% of the dataset, it failed miserably, having an accuracy of just over 14\%. Since out goal is the play with a dictionary which our model will never see, we have to do better than this. We need some algorithm which does not need the frequency of the letters in the dictionary to guess the next letter. We need an algorithm which can guess the next letter based on the current word, and not the dictionary. This is where the idea of \textit{ngrams} and \textit{Markov Chains} comes in.
 
+
+\section{Using Ngrams and Markov Chains}
 \subsection{The Algorithm}
 
 \subsubsection{Ngrams and Markov Chains}
@@ -99,17 +101,7 @@ Suppose we have the word \verb|a _ _  l _|. Our goal is to use, say bigrams, to 
 The same algorithm can be used for trigrams, four-grams and five-grams. The only difference is that the number of possible places where the ngrams can be used will be different. For example, in the case of trigrams, there will be three possible places where the trigrams can be used, namely, \verb|a p _|, \verb|a _ p| and \verb|_ p p|.
 
 \subsubsection{Combining the ngram Models}
-So, we have unigram to five-grams. But which one to use? Well, we can use all of them. The idea is to use the ngram models in the order of their accuracy. For example, we can use the five-gram model first, then the four-gram model, then the trigram model, and so on. This way, we will be able to use the most accurate model first, and then use the less accurate models to fill in the blanks. This will help us to guess the word more accurately. Another thing which I have used is to give these models different weights. These weights are hyperparameters, and can be tuned to get better results. I tried to use the given dictionary to tune these hyperparameters, by creating a training and test set from the dictionary. However, I found that there is not a good correlation between the performance of the model on training set and the actual game with the server, neither is there a good correlation between the performance of the model on the test set and the actual game with the server. So, I decided to use the weights which I found to be working best for me. The weights which I used are as follows:
-
-\begin{minted}{python3}
-weights = {
-    w1: 0.1,
-    w2: 0.2,
-    w3: 0.2,
-    w4: 0.25,
-    w5: 0.2
-}
-\end{minted}
+So, we have unigram to five-grams. But which one to use? Well, we can use all of them. The idea is to use the ngram models in the order of their accuracy. For example, we can use the five-gram model first, then the four-gram model, then the trigram model, and so on. This way, we will be able to use the most accurate model first, and then use the less accurate models to fill in the blanks. This will help us to guess the word more accurately. Another thing which I have used is to give these models different weights. These weights are hyperparameters, and can be tuned to get better results. Please see the section \ref{sec:hyperparameter-tuning} for more details.
 
 \subsubsection{Starting the Game}
 There is a problem with the ngram model. It cannot be used to guess the first letter of the word. This is because the ngram model requires the previous $n$ letters to calculate the conditional probability of the next letter. So, we need to use some other method to guess the first letter. For this, I have used the frequency approach, as given in the baseline model. It works quite well. In fact, another hyperparameter I have used is the percentage of initial guesses made using the frequency approach before the helm is given to the ngram models. I used the value of 0.5, which means that the first 50\% of the guesses will be made using the frequency approach, and the remaining 50\% will be made using the ngram models.
@@ -129,14 +121,36 @@ Here is an overview of the final algorithm:
 
 Please have look at the code for more details.
 
+\subsection{Hyperparameter Tuning}\label{sec:hyperparameter-tuning}
+
+The model used has some hyperparameters which can be tuned to get better results. These hyperparameters are as follows:
+
+\begin{enumerate}
+    \item The weights of the ngram models.
+    \item The percentage of initial guesses made using the frequency approach.
+\end{enumerate}
+
+For this, I created a train-test split with ratio $0.8$ and used these data sets to fine tune the hyperparameters. The final hyperparameters that gave the best test accuracy are as follows:
+\begin{minted}{python3}
+    frequency_guess_percentage = 0.5
+    w1 = 0.015491540193713628
+    w2 = 0.08445862616131074
+    w3 = 0.26598691392217977
+    w4 = 0.32327628238896444
+    w5 = 0.3107866373338315
+\end{minted}
+
+The \verb|frequency_guess_percentage| was chosen to be $0.5$. The value of $0.4$ was also considered but the results were very poor and hence this was discarded.
+
 \subsection{Results}
-The model performs about 40\% on the training dictionary. On the server, it performs about 30\%.
+The model performs about 43\% on the training dictionary. On test dataset, the accuracy is 41\%.
 
 \subsection{Improvements}
 A number of improvements can be made to the model. Some of them are as follows:
 \begin{enumerate}
     \item The weights can further be tuned.
     \item Some other NLP models can be used to improve the performance of the model.
+    \item A more daring approach would be to use reinforcement learning to train the model.
 \end{enumerate}
 
 \end{document}
