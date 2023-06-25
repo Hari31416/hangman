@@ -42,11 +42,11 @@ class HangmanModel:
 
         # initializing the hyperparameters
         self.frequency_guess_percentage = 0.5
-        self.w1 = 0.05
-        self.w2 = 0.1
-        self.w3 = 0.2
-        self.w4 = 0.2
-        self.w5 = 0.3
+        self.w1 = 0.015491540193713628
+        self.w2 = 0.08445862616131074
+        self.w3 = 0.26598691392217977
+        self.w4 = 0.32327628238896444
+        self.w5 = 0.3107866373338315
 
     def train_model(self, split=0.8):
         """Trains the model on the dictionary. Uses five grams and only a part of the
@@ -851,8 +851,8 @@ class HangmanModel:
             "w5": params[5],
         }
 
-    def update_info(self, i, current_result, current_parameters):
-        """Updates the info.txt file with the results of the current run
+    def update_info(self, i, current_result, current_parameters, file_name):
+        """Updates the file_name file with the results of the current run
 
         Parameters
         ----------
@@ -867,7 +867,7 @@ class HangmanModel:
         test_score = current_result["Test Score"]
         p = self._list_to_dictionary(current_parameters)
 
-        with open("info.txt", "+a") as f:
+        with open(file_name, "+a") as f:
             f.write(f"Run Number: {i}\n")
             f.write(f"Parameters: {p}\n")
             f.write(f"Train Score: {train_score}\n")
@@ -876,11 +876,13 @@ class HangmanModel:
     def tune_hyperparameters(
         self,
         all_params_list,
+        do_product=True,
         n=500,
         verbose=True,
         start=0,
         end=None,
         start_id=1,
+        file_name="info.txt",
     ):
         """Tunes the hyperparameters of the model
 
@@ -905,7 +907,10 @@ class HangmanModel:
         list
             List of dictionaries of results
         """
-        params = list(product(*all_params_list))
+        if do_product:
+            params = list(product(*all_params_list))
+        else:
+            params = all_params_list
         results = []
         start = start
         end = end if end is not None else len(params)
@@ -919,6 +924,6 @@ class HangmanModel:
                 print(f"\tTrain Score: {res['Train Score']}")
                 print(f"\tTest Score: {res['Test Score']}\n")
             results.append(res)
-            self.update_info(start_id, res, p)
+            self.update_info(start_id, res, p, file_name)
             start_id += 1
         return results

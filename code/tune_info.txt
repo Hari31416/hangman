@@ -1,0 +1,980 @@
+Run Number: 1
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.07028669142435644, 'w2': 0.14544864011756303, 'w3': 0.26766144783278495, 'w4': 0.3368821474466134, 'w5': 0.1797210731786823}
+Train Score: 0.47
+Test Score: 0.245
+
+Run Number: 2
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.07913280642537983, 'w2': 0.11221459671922901, 'w3': 0.18811945652082623, 'w4': 0.2825083322523111, 'w5': 0.3380248080822538}
+Train Score: 0.43
+Test Score: 0.36
+
+Run Number: 3
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.10472377982058645, 'w2': 0.1505097441669122, 'w3': 0.16905138897372463, 'w4': 0.2603250715225028, 'w5': 0.31539001551627405}
+Train Score: 0.51
+Test Score: 0.32
+
+Run Number: 4
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05619830662835008, 'w2': 0.10447290791391091, 'w3': 0.20694425283956527, 'w4': 0.3113227241318503, 'w5': 0.3210618084863234}
+Train Score: 0.415
+Test Score: 0.345
+
+Run Number: 5
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.08909245535263398, 'w2': 0.10918569539051148, 'w3': 0.3153119918251516, 'w4': 0.25400586124926416, 'w5': 0.23240399618243884}
+Train Score: 0.415
+Test Score: 0.24
+
+Run Number: 6
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.08211713639084545, 'w2': 0.06967208393731493, 'w3': 0.17979636351266887, 'w4': 0.3593075827085481, 'w5': 0.30910683345062256}
+Train Score: 0.505
+Test Score: 0.29
+
+Run Number: 7
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.08073091592451506, 'w2': 0.1060005657164561, 'w3': 0.2527510441976835, 'w4': 0.23323613427648757, 'w5': 0.3272813398848578}
+Train Score: 0.465
+Test Score: 0.28
+
+Run Number: 8
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.09516670362612387, 'w2': 0.12524302687774141, 'w3': 0.19246303452712227, 'w4': 0.2749777599833434, 'w5': 0.3121494749856692}
+Train Score: 0.42
+Test Score: 0.32
+
+Run Number: 9
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.033384999117682286, 'w2': 0.15839074013288065, 'w3': 0.20609308261391918, 'w4': 0.36637832792359326, 'w5': 0.2357528502119246}
+Train Score: 0.43
+Test Score: 0.325
+
+Run Number: 10
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.09381918016936548, 'w2': 0.07051734981284713, 'w3': 0.19677656498019275, 'w4': 0.38006241896986726, 'w5': 0.2588244860677273}
+Train Score: 0.44
+Test Score: 0.26
+
+Run Number: 11
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.01765026806588588, 'w2': 0.1514956833104458, 'w3': 0.21660176184159882, 'w4': 0.2929318638804582, 'w5': 0.32132042290161134}
+Train Score: 0.43
+Test Score: 0.33
+
+Run Number: 12
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.06439351724411789, 'w2': 0.0918725762117007, 'w3': 0.22804698969286197, 'w4': 0.2744352160631871, 'w5': 0.3412517007881323}
+Train Score: 0.4
+Test Score: 0.34
+
+Run Number: 13
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.09155963838464908, 'w2': 0.1448096038110149, 'w3': 0.20886783511934434, 'w4': 0.2905190095729374, 'w5': 0.26424391311205425}
+Train Score: 0.455
+Test Score: 0.37
+
+Run Number: 14
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.027714828648237537, 'w2': 0.10948136060468991, 'w3': 0.30924268842274255, 'w4': 0.25625526064753934, 'w5': 0.29730586167679063}
+Train Score: 0.495
+Test Score: 0.255
+
+Run Number: 15
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.026738674047521945, 'w2': 0.07003398169659315, 'w3': 0.25906072678553327, 'w4': 0.35191376427882415, 'w5': 0.2922528531915275}
+Train Score: 0.455
+Test Score: 0.3
+
+Run Number: 16
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.04076670117631936, 'w2': 0.1459095776090186, 'w3': 0.24942368287375175, 'w4': 0.3339444463116798, 'w5': 0.22995559202923044}
+Train Score: 0.435
+Test Score: 0.275
+
+Run Number: 17
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.03462754980719722, 'w2': 0.15755437448269857, 'w3': 0.2797069183153866, 'w4': 0.2781991708247844, 'w5': 0.24991198656993324}
+Train Score: 0.39
+Test Score: 0.305
+
+Run Number: 18
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.032963700455986775, 'w2': 0.14752646242551815, 'w3': 0.16844740573038394, 'w4': 0.312210540752018, 'w5': 0.33885189063609306}
+Train Score: 0.425
+Test Score: 0.3
+
+Run Number: 19
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05167396000336019, 'w2': 0.18580782232109258, 'w3': 0.23643034686353712, 'w4': 0.29814830105719325, 'w5': 0.2279395697548169}
+Train Score: 0.37
+Test Score: 0.255
+
+Run Number: 20
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.06572058803688566, 'w2': 0.11091792382841303, 'w3': 0.3029094529394888, 'w4': 0.23661232972241114, 'w5': 0.28383970547280146}
+Train Score: 0.41
+Test Score: 0.28
+
+Run Number: 21
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.02182678514435916, 'w2': 0.1346158324205739, 'w3': 0.2179470045082592, 'w4': 0.3326176613743532, 'w5': 0.2929927165524545}
+Train Score: 0.45
+Test Score: 0.31
+
+Run Number: 22
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.03745646942306419, 'w2': 0.1629059157907154, 'w3': 0.2214956762885949, 'w4': 0.23614314033207043, 'w5': 0.34199879816555506}
+Train Score: 0.48
+Test Score: 0.335
+
+Run Number: 23
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.016331799818210917, 'w2': 0.0764167717945985, 'w3': 0.25533390544130646, 'w4': 0.42307262224812814, 'w5': 0.22884490069775595}
+Train Score: 0.435
+Test Score: 0.365
+
+Run Number: 24
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.028454965616173094, 'w2': 0.09696608956241444, 'w3': 0.2578888129739438, 'w4': 0.28644431247572016, 'w5': 0.33024581937174846}
+Train Score: 0.455
+Test Score: 0.35
+
+Run Number: 25
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.059505503011885584, 'w2': 0.0838890090444288, 'w3': 0.2541456285324577, 'w4': 0.342134019834926, 'w5': 0.26032583957630184}
+Train Score: 0.4
+Test Score: 0.28
+
+Run Number: 26
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.0732975115504505, 'w2': 0.06704924893015103, 'w3': 0.3558246426150332, 'w4': 0.20819964628506446, 'w5': 0.2956289506193009}
+Train Score: 0.43
+Test Score: 0.275
+
+Run Number: 27
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.04178349234698323, 'w2': 0.11234494723835466, 'w3': 0.2549676907498866, 'w4': 0.2982008052145717, 'w5': 0.2927030644502038}
+Train Score: 0.4
+Test Score: 0.365
+
+Run Number: 28
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.04894084945410456, 'w2': 0.1681340559732992, 'w3': 0.14876981332341588, 'w4': 0.3518681968164573, 'w5': 0.2822870844327231}
+Train Score: 0.475
+Test Score: 0.295
+
+Run Number: 29
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.027799031258239407, 'w2': 0.1277202089859002, 'w3': 0.18505309766535388, 'w4': 0.2624527538653423, 'w5': 0.39697490822516424}
+Train Score: 0.43
+Test Score: 0.285
+
+Run Number: 30
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.032810025767565816, 'w2': 0.15710285660171983, 'w3': 0.26167449419209243, 'w4': 0.2788623954999912, 'w5': 0.26955022793863076}
+Train Score: 0.46
+Test Score: 0.31
+
+Run Number: 31
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.01548440305806487, 'w2': 0.17155781569667192, 'w3': 0.22620520663689167, 'w4': 0.35459093266935177, 'w5': 0.23216164193901978}
+Train Score: 0.425
+Test Score: 0.295
+
+Run Number: 32
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05335645694536236, 'w2': 0.11382755510515506, 'w3': 0.28157207263408945, 'w4': 0.2607896060491014, 'w5': 0.2904543092662917}
+Train Score: 0.41
+Test Score: 0.34
+
+Run Number: 33
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05241538508894774, 'w2': 0.12806564656140867, 'w3': 0.26737124957122815, 'w4': 0.3046408764059242, 'w5': 0.24750684237249118}
+Train Score: 0.43
+Test Score: 0.255
+
+Run Number: 34
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.020047493711672894, 'w2': 0.11604817565164191, 'w3': 0.29122155350829776, 'w4': 0.33024656553313736, 'w5': 0.24243621159525006}
+Train Score: 0.445
+Test Score: 0.33
+
+Run Number: 35
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.04503948808314855, 'w2': 0.07605096120794305, 'w3': 0.1963675417746325, 'w4': 0.3425136108269644, 'w5': 0.3400283981073115}
+Train Score: 0.455
+Test Score: 0.31
+
+Run Number: 36
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.08881037411815465, 'w2': 0.14080092269281638, 'w3': 0.23113972700411914, 'w4': 0.22581265406987955, 'w5': 0.31343632211503025}
+Train Score: 0.4
+Test Score: 0.37
+
+Run Number: 37
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.06080988759406264, 'w2': 0.12863016618702924, 'w3': 0.16986933616198124, 'w4': 0.30683412887112727, 'w5': 0.3338564811857997}
+Train Score: 0.455
+Test Score: 0.305
+
+Run Number: 38
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.06592729039167383, 'w2': 0.13036187934182997, 'w3': 0.1950380852662434, 'w4': 0.3268937493951062, 'w5': 0.28177899560514663}
+Train Score: 0.43
+Test Score: 0.28
+
+Run Number: 39
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.049909549617790504, 'w2': 0.16916188933468174, 'w3': 0.17666768684009385, 'w4': 0.21991654384374767, 'w5': 0.3843443303636863}
+Train Score: 0.48
+Test Score: 0.34
+
+Run Number: 40
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.020079397100016116, 'w2': 0.051161719835347556, 'w3': 0.32025134078351475, 'w4': 0.31003400469571685, 'w5': 0.2984735375854046}
+Train Score: 0.445
+Test Score: 0.33
+
+Run Number: 41
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.03736734855606608, 'w2': 0.15118385555195119, 'w3': 0.16033003469448445, 'w4': 0.3740588232483749, 'w5': 0.2770599379491233}
+Train Score: 0.38
+Test Score: 0.33
+
+Run Number: 42
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.0535869008510023, 'w2': 0.10720725624583384, 'w3': 0.24853943307647738, 'w4': 0.29889458192236773, 'w5': 0.29177182790431866}
+Train Score: 0.415
+Test Score: 0.275
+
+Run Number: 43
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.024973783187302697, 'w2': 0.08786106886996663, 'w3': 0.2496679128071046, 'w4': 0.30583461235923487, 'w5': 0.33166262277639114}
+Train Score: 0.475
+Test Score: 0.285
+
+Run Number: 44
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.015388801997508127, 'w2': 0.1574884852940335, 'w3': 0.2862226147652138, 'w4': 0.3462778564264406, 'w5': 0.19462224151680405}
+Train Score: 0.42
+Test Score: 0.32
+
+Run Number: 45
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.07625724979618548, 'w2': 0.1937131279851377, 'w3': 0.21698815512300973, 'w4': 0.23872931527335556, 'w5': 0.2743121518223116}
+Train Score: 0.455
+Test Score: 0.295
+
+Run Number: 46
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05817660930620456, 'w2': 0.09123986247125775, 'w3': 0.3077550596480602, 'w4': 0.30269698511927157, 'w5': 0.24013148345520594}
+Train Score: 0.425
+Test Score: 0.3
+
+Run Number: 47
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.011848998299716525, 'w2': 0.17354740684827985, 'w3': 0.3210043243599662, 'w4': 0.2856318632509978, 'w5': 0.20796740724103968}
+Train Score: 0.35
+Test Score: 0.25
+
+Run Number: 48
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.06491355418141592, 'w2': 0.1025559037505019, 'w3': 0.2375220873911958, 'w4': 0.3055942371784096, 'w5': 0.2894142174984768}
+Train Score: 0.455
+Test Score: 0.385
+
+Run Number: 49
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.07224366879583691, 'w2': 0.11613703281240675, 'w3': 0.15104122374455606, 'w4': 0.3418484674674521, 'w5': 0.318729607179748}
+Train Score: 0.435
+Test Score: 0.34
+
+Run Number: 50
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.06400532324797513, 'w2': 0.10490855727013972, 'w3': 0.2539806377014226, 'w4': 0.27818096581784824, 'w5': 0.29892451596261427}
+Train Score: 0.44
+Test Score: 0.275
+
+Run Number: 51
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05348754452285696, 'w2': 0.14356453603574443, 'w3': 0.2121609534040521, 'w4': 0.3833434636256652, 'w5': 0.20744350241168125}
+Train Score: 0.4
+Test Score: 0.305
+
+Run Number: 52
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.014445647389702151, 'w2': 0.06531712548728073, 'w3': 0.23361536961840237, 'w4': 0.3780948638802252, 'w5': 0.3085269936243896}
+Train Score: 0.43
+Test Score: 0.295
+
+Run Number: 53
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.02742835538736385, 'w2': 0.18408777614097474, 'w3': 0.16040276160948874, 'w4': 0.23960753172467705, 'w5': 0.3884735751374957}
+Train Score: 0.485
+Test Score: 0.29
+
+Run Number: 54
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.031689995353885315, 'w2': 0.12181650520078606, 'w3': 0.3538871069621482, 'w4': 0.2324188708605599, 'w5': 0.2601875216226205}
+Train Score: 0.415
+Test Score: 0.31
+
+Run Number: 55
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.068809626026556, 'w2': 0.17011885498178878, 'w3': 0.19581840286274704, 'w4': 0.3643925877084413, 'w5': 0.2008605284204669}
+Train Score: 0.41
+Test Score: 0.335
+
+Run Number: 56
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.015491540193713628, 'w2': 0.08445862616131074, 'w3': 0.26598691392217977, 'w4': 0.32327628238896444, 'w5': 0.3107866373338315}
+Train Score: 0.435
+Test Score: 0.41
+
+Run Number: 57
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.0538055749686403, 'w2': 0.14933853423466728, 'w3': 0.24449659281891173, 'w4': 0.35464898817640894, 'w5': 0.19771030980137175}
+Train Score: 0.41
+Test Score: 0.305
+
+Run Number: 58
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.0509736086164019, 'w2': 0.1513357131161365, 'w3': 0.18398040986711964, 'w4': 0.2397520470289753, 'w5': 0.3739582213713667}
+Train Score: 0.435
+Test Score: 0.34
+
+Run Number: 59
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.04205526328042517, 'w2': 0.05667462390940068, 'w3': 0.22179480089342204, 'w4': 0.3930340678772833, 'w5': 0.28644124403946875}
+Train Score: 0.405
+Test Score: 0.31
+
+Run Number: 60
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.0638737469221861, 'w2': 0.10025543413022416, 'w3': 0.23672522368707527, 'w4': 0.30659190389723384, 'w5': 0.29255369136328063}
+Train Score: 0.46
+Test Score: 0.305
+
+Run Number: 61
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.02532808678871132, 'w2': 0.09352498595246285, 'w3': 0.22093377770523243, 'w4': 0.35738084420730976, 'w5': 0.30283230534628364}
+Train Score: 0.44
+Test Score: 0.335
+
+Run Number: 62
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.02820774361526939, 'w2': 0.13089346740683105, 'w3': 0.2448887546124659, 'w4': 0.2831062553598796, 'w5': 0.31290377900555416}
+Train Score: 0.4
+Test Score: 0.32
+
+Run Number: 63
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05211490015486161, 'w2': 0.05217874632534487, 'w3': 0.2870895057566849, 'w4': 0.29118826573588097, 'w5': 0.31742858202722757}
+Train Score: 0.485
+Test Score: 0.34
+
+Run Number: 64
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.08058620120138806, 'w2': 0.17889163271025463, 'w3': 0.16877461185796194, 'w4': 0.2582920811936969, 'w5': 0.3134554730366986}
+Train Score: 0.465
+Test Score: 0.335
+
+Run Number: 65
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.031174694152257043, 'w2': 0.1338552043684992, 'w3': 0.2486215447224452, 'w4': 0.2784421984073612, 'w5': 0.3079063583494374}
+Train Score: 0.44
+Test Score: 0.285
+
+Run Number: 66
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05588002195597627, 'w2': 0.08993526721271679, 'w3': 0.21287731513952157, 'w4': 0.36643453764578526, 'w5': 0.2748728580460001}
+Train Score: 0.43
+Test Score: 0.305
+
+Run Number: 67
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.03612276939272864, 'w2': 0.13153712290762704, 'w3': 0.2509709999439687, 'w4': 0.33304048581487344, 'w5': 0.24832862194080216}
+Train Score: 0.395
+Test Score: 0.26
+
+Run Number: 68
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.06942950295325293, 'w2': 0.17146441688179828, 'w3': 0.21475143211959652, 'w4': 0.24774705207216072, 'w5': 0.29660759597319153}
+Train Score: 0.415
+Test Score: 0.365
+
+Run Number: 69
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.026001156551631707, 'w2': 0.163875188890593, 'w3': 0.264463688472674, 'w4': 0.18783900502904577, 'w5': 0.3578209610560556}
+Train Score: 0.45
+Test Score: 0.285
+
+Run Number: 70
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.04223136682558348, 'w2': 0.07474018801117108, 'w3': 0.3495478306042286, 'w4': 0.2912940727610499, 'w5': 0.24218654179796686}
+Train Score: 0.365
+Test Score: 0.32
+
+Run Number: 71
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05227202010969568, 'w2': 0.10357102244933793, 'w3': 0.27758131381737533, 'w4': 0.2327087696836019, 'w5': 0.3338668739399891}
+Train Score: 0.475
+Test Score: 0.29
+
+Run Number: 72
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05717270415803701, 'w2': 0.1300057406468612, 'w3': 0.29196807667359276, 'w4': 0.18897304897205347, 'w5': 0.3318804295494555}
+Train Score: 0.415
+Test Score: 0.285
+
+Run Number: 73
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.02770308412305025, 'w2': 0.10490279286969095, 'w3': 0.2437080326636868, 'w4': 0.34389279080545915, 'w5': 0.2797932995381129}
+Train Score: 0.405
+Test Score: 0.305
+
+Run Number: 74
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.08749060342288213, 'w2': 0.0699941773393606, 'w3': 0.19313290586461532, 'w4': 0.29643553022215546, 'w5': 0.35294678315098643}
+Train Score: 0.465
+Test Score: 0.33
+
+Run Number: 75
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.06443699168641868, 'w2': 0.1379236276655318, 'w3': 0.18891931818212462, 'w4': 0.35065967746858, 'w5': 0.258060384997345}
+Train Score: 0.405
+Test Score: 0.325
+
+Run Number: 76
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.018658047892271202, 'w2': 0.11689298137738051, 'w3': 0.15756693436762848, 'w4': 0.3204492168631572, 'w5': 0.38643281949956265}
+Train Score: 0.45
+Test Score: 0.305
+
+Run Number: 77
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.07132921102396982, 'w2': 0.09938488393209446, 'w3': 0.3220476150184965, 'w4': 0.2578006930614185, 'w5': 0.2494375969640209}
+Train Score: 0.44
+Test Score: 0.275
+
+Run Number: 78
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.021571640859260964, 'w2': 0.100191548177159, 'w3': 0.21471285898960613, 'w4': 0.3380773854234955, 'w5': 0.3254465665504783}
+Train Score: 0.45
+Test Score: 0.36
+
+Run Number: 79
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.08907455769418961, 'w2': 0.16259760866040784, 'w3': 0.31786392957045256, 'w4': 0.2283891102126989, 'w5': 0.20207479386225105}
+Train Score: 0.425
+Test Score: 0.305
+
+Run Number: 80
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.03948079030061677, 'w2': 0.12935485565942, 'w3': 0.32660257036688, 'w4': 0.26734494583386587, 'w5': 0.23721683783921743}
+Train Score: 0.375
+Test Score: 0.325
+
+Run Number: 81
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.08387386750568196, 'w2': 0.0669492018989459, 'w3': 0.25399191386680364, 'w4': 0.35738757793304143, 'w5': 0.23779743879552695}
+Train Score: 0.395
+Test Score: 0.335
+
+Run Number: 82
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.07041751055603498, 'w2': 0.16772203165375552, 'w3': 0.2019777921620939, 'w4': 0.32423419319491065, 'w5': 0.23564847243320491}
+Train Score: 0.455
+Test Score: 0.24
+
+Run Number: 83
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.059611562410392185, 'w2': 0.11553392433545465, 'w3': 0.24334629431540228, 'w4': 0.3548500635203676, 'w5': 0.2266581554183833}
+Train Score: 0.32
+Test Score: 0.31
+
+Run Number: 84
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.09306666515993353, 'w2': 0.10111197397537054, 'w3': 0.3434048424865129, 'w4': 0.22638006548553963, 'w5': 0.23603645289264338}
+Train Score: 0.47
+Test Score: 0.285
+
+Run Number: 85
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.02679725924231616, 'w2': 0.10105629411539138, 'w3': 0.26563066146677566, 'w4': 0.3229170681520825, 'w5': 0.28359871702343437}
+Train Score: 0.48
+Test Score: 0.325
+
+Run Number: 86
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05816315924165838, 'w2': 0.10509472757556433, 'w3': 0.2389732699091229, 'w4': 0.25528020145090474, 'w5': 0.34248864182274963}
+Train Score: 0.495
+Test Score: 0.3
+
+Run Number: 87
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.06087898828072219, 'w2': 0.17187470814026104, 'w3': 0.257833523445488, 'w4': 0.29399192625186177, 'w5': 0.21542085388166707}
+Train Score: 0.395
+Test Score: 0.335
+
+Run Number: 88
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.07144263957278241, 'w2': 0.14737465112046502, 'w3': 0.1507046387512165, 'w4': 0.2797415348842325, 'w5': 0.3507365356713036}
+Train Score: 0.45
+Test Score: 0.28
+
+Run Number: 89
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.044470954108668165, 'w2': 0.11126105605407771, 'w3': 0.2915173235034605, 'w4': 0.2630484371075205, 'w5': 0.289702229226273}
+Train Score: 0.335
+Test Score: 0.295
+
+Run Number: 90
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.020037479113485093, 'w2': 0.09228066276206101, 'w3': 0.24748307742981268, 'w4': 0.37968464181898165, 'w5': 0.26051413887565944}
+Train Score: 0.375
+Test Score: 0.305
+
+Run Number: 91
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.010397923720697205, 'w2': 0.09614078072080262, 'w3': 0.25425505771218626, 'w4': 0.4104576977186221, 'w5': 0.22874854012769172}
+Train Score: 0.465
+Test Score: 0.28
+
+Run Number: 92
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.05618334139250059, 'w2': 0.12784554046060637, 'w3': 0.23808566371539744, 'w4': 0.19869148757412697, 'w5': 0.37919396685736867}
+Train Score: 0.49
+Test Score: 0.325
+
+Run Number: 93
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.04202775688259161, 'w2': 0.07355828135079719, 'w3': 0.3118290854279936, 'w4': 0.2334567771677152, 'w5': 0.33912809917090236}
+Train Score: 0.385
+Test Score: 0.31
+
+Run Number: 94
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.07453531058392089, 'w2': 0.13398718905263424, 'w3': 0.18959943771411722, 'w4': 0.23073997670662166, 'w5': 0.371138085942706}
+Train Score: 0.52
+Test Score: 0.315
+
+Run Number: 95
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.04915832485009374, 'w2': 0.12410457687050186, 'w3': 0.17430550819622861, 'w4': 0.383575671725518, 'w5': 0.2688559183576578}
+Train Score: 0.45
+Test Score: 0.31
+
+Run Number: 96
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.07513136223789485, 'w2': 0.1921857010980827, 'w3': 0.15447127854495007, 'w4': 0.3019539353680932, 'w5': 0.2762577227509792}
+Train Score: 0.48
+Test Score: 0.31
+
+Run Number: 97
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.03775747484506282, 'w2': 0.13271045056969957, 'w3': 0.19625741577886252, 'w4': 0.3377964795293703, 'w5': 0.29547817927700476}
+Train Score: 0.41
+Test Score: 0.265
+
+Run Number: 98
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.07198094824311252, 'w2': 0.06463539882666401, 'w3': 0.21403700820541954, 'w4': 0.31753762510602773, 'w5': 0.33180901961877607}
+Train Score: 0.46
+Test Score: 0.335
+
+Run Number: 99
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.08472234116816424, 'w2': 0.054152471979215015, 'w3': 0.2865179709025748, 'w4': 0.26791671590298904, 'w5': 0.30669050004705684}
+Train Score: 0.445
+Test Score: 0.305
+
+Run Number: 100
+Parameters: {'frequency_guess_percentage': 0.5, 'w1': 0.012794036252684736, 'w2': 0.06842602669325486, 'w3': 0.336846857851303, 'w4': 0.24331885378296986, 'w5': 0.33861422541978753}
+Train Score: 0.385
+Test Score: 0.265
+
+Run Number: 101
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.07028669142435644, 'w2': 0.14544864011756303, 'w3': 0.26766144783278495, 'w4': 0.3368821474466134, 'w5': 0.1797210731786823}
+Train Score: 0.385
+Test Score: 0.245
+
+Run Number: 102
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.07913280642537983, 'w2': 0.11221459671922901, 'w3': 0.18811945652082623, 'w4': 0.2825083322523111, 'w5': 0.3380248080822538}
+Train Score: 0.41
+Test Score: 0.31
+
+Run Number: 103
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.10472377982058645, 'w2': 0.1505097441669122, 'w3': 0.16905138897372463, 'w4': 0.2603250715225028, 'w5': 0.31539001551627405}
+Train Score: 0.365
+Test Score: 0.29
+
+Run Number: 104
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05619830662835008, 'w2': 0.10447290791391091, 'w3': 0.20694425283956527, 'w4': 0.3113227241318503, 'w5': 0.3210618084863234}
+Train Score: 0.385
+Test Score: 0.26
+
+Run Number: 105
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.08909245535263398, 'w2': 0.10918569539051148, 'w3': 0.3153119918251516, 'w4': 0.25400586124926416, 'w5': 0.23240399618243884}
+Train Score: 0.34
+Test Score: 0.32
+
+Run Number: 106
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.08211713639084545, 'w2': 0.06967208393731493, 'w3': 0.17979636351266887, 'w4': 0.3593075827085481, 'w5': 0.30910683345062256}
+Train Score: 0.38
+Test Score: 0.225
+
+Run Number: 107
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.08073091592451506, 'w2': 0.1060005657164561, 'w3': 0.2527510441976835, 'w4': 0.23323613427648757, 'w5': 0.3272813398848578}
+Train Score: 0.43
+Test Score: 0.33
+
+Run Number: 108
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.09516670362612387, 'w2': 0.12524302687774141, 'w3': 0.19246303452712227, 'w4': 0.2749777599833434, 'w5': 0.3121494749856692}
+Train Score: 0.38
+Test Score: 0.33
+
+Run Number: 109
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.033384999117682286, 'w2': 0.15839074013288065, 'w3': 0.20609308261391918, 'w4': 0.36637832792359326, 'w5': 0.2357528502119246}
+Train Score: 0.31
+Test Score: 0.285
+
+Run Number: 110
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.09381918016936548, 'w2': 0.07051734981284713, 'w3': 0.19677656498019275, 'w4': 0.38006241896986726, 'w5': 0.2588244860677273}
+Train Score: 0.33
+Test Score: 0.23
+
+Run Number: 111
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.01765026806588588, 'w2': 0.1514956833104458, 'w3': 0.21660176184159882, 'w4': 0.2929318638804582, 'w5': 0.32132042290161134}
+Train Score: 0.445
+Test Score: 0.285
+
+Run Number: 112
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.06439351724411789, 'w2': 0.0918725762117007, 'w3': 0.22804698969286197, 'w4': 0.2744352160631871, 'w5': 0.3412517007881323}
+Train Score: 0.36
+Test Score: 0.265
+
+Run Number: 113
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.09155963838464908, 'w2': 0.1448096038110149, 'w3': 0.20886783511934434, 'w4': 0.2905190095729374, 'w5': 0.26424391311205425}
+Train Score: 0.37
+Test Score: 0.275
+
+Run Number: 114
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.027714828648237537, 'w2': 0.10948136060468991, 'w3': 0.30924268842274255, 'w4': 0.25625526064753934, 'w5': 0.29730586167679063}
+Train Score: 0.365
+Test Score: 0.3
+
+Run Number: 115
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.026738674047521945, 'w2': 0.07003398169659315, 'w3': 0.25906072678553327, 'w4': 0.35191376427882415, 'w5': 0.2922528531915275}
+Train Score: 0.35
+Test Score: 0.25
+
+Run Number: 116
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.04076670117631936, 'w2': 0.1459095776090186, 'w3': 0.24942368287375175, 'w4': 0.3339444463116798, 'w5': 0.22995559202923044}
+Train Score: 0.325
+Test Score: 0.255
+
+Run Number: 117
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.03462754980719722, 'w2': 0.15755437448269857, 'w3': 0.2797069183153866, 'w4': 0.2781991708247844, 'w5': 0.24991198656993324}
+Train Score: 0.355
+Test Score: 0.305
+
+Run Number: 118
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.032963700455986775, 'w2': 0.14752646242551815, 'w3': 0.16844740573038394, 'w4': 0.312210540752018, 'w5': 0.33885189063609306}
+Train Score: 0.41
+Test Score: 0.28
+
+Run Number: 119
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05167396000336019, 'w2': 0.18580782232109258, 'w3': 0.23643034686353712, 'w4': 0.29814830105719325, 'w5': 0.2279395697548169}
+Train Score: 0.39
+Test Score: 0.255
+
+Run Number: 120
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.06572058803688566, 'w2': 0.11091792382841303, 'w3': 0.3029094529394888, 'w4': 0.23661232972241114, 'w5': 0.28383970547280146}
+Train Score: 0.325
+Test Score: 0.28
+
+Run Number: 121
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.02182678514435916, 'w2': 0.1346158324205739, 'w3': 0.2179470045082592, 'w4': 0.3326176613743532, 'w5': 0.2929927165524545}
+Train Score: 0.365
+Test Score: 0.24
+
+Run Number: 122
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.03745646942306419, 'w2': 0.1629059157907154, 'w3': 0.2214956762885949, 'w4': 0.23614314033207043, 'w5': 0.34199879816555506}
+Train Score: 0.33
+Test Score: 0.265
+
+Run Number: 123
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.016331799818210917, 'w2': 0.0764167717945985, 'w3': 0.25533390544130646, 'w4': 0.42307262224812814, 'w5': 0.22884490069775595}
+Train Score: 0.31
+Test Score: 0.29
+
+Run Number: 124
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.028454965616173094, 'w2': 0.09696608956241444, 'w3': 0.2578888129739438, 'w4': 0.28644431247572016, 'w5': 0.33024581937174846}
+Train Score: 0.355
+Test Score: 0.25
+
+Run Number: 125
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.059505503011885584, 'w2': 0.0838890090444288, 'w3': 0.2541456285324577, 'w4': 0.342134019834926, 'w5': 0.26032583957630184}
+Train Score: 0.37
+Test Score: 0.245
+
+Run Number: 126
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.0732975115504505, 'w2': 0.06704924893015103, 'w3': 0.3558246426150332, 'w4': 0.20819964628506446, 'w5': 0.2956289506193009}
+Train Score: 0.335
+Test Score: 0.255
+
+Run Number: 127
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.04178349234698323, 'w2': 0.11234494723835466, 'w3': 0.2549676907498866, 'w4': 0.2982008052145717, 'w5': 0.2927030644502038}
+Train Score: 0.38
+Test Score: 0.26
+
+Run Number: 128
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.04894084945410456, 'w2': 0.1681340559732992, 'w3': 0.14876981332341588, 'w4': 0.3518681968164573, 'w5': 0.2822870844327231}
+Train Score: 0.365
+Test Score: 0.26
+
+Run Number: 129
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.027799031258239407, 'w2': 0.1277202089859002, 'w3': 0.18505309766535388, 'w4': 0.2624527538653423, 'w5': 0.39697490822516424}
+Train Score: 0.415
+Test Score: 0.26
+
+Run Number: 130
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.032810025767565816, 'w2': 0.15710285660171983, 'w3': 0.26167449419209243, 'w4': 0.2788623954999912, 'w5': 0.26955022793863076}
+Train Score: 0.355
+Test Score: 0.29
+
+Run Number: 131
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.01548440305806487, 'w2': 0.17155781569667192, 'w3': 0.22620520663689167, 'w4': 0.35459093266935177, 'w5': 0.23216164193901978}
+Train Score: 0.27
+Test Score: 0.32
+
+Run Number: 132
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05335645694536236, 'w2': 0.11382755510515506, 'w3': 0.28157207263408945, 'w4': 0.2607896060491014, 'w5': 0.2904543092662917}
+Train Score: 0.37
+Test Score: 0.3
+
+Run Number: 133
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05241538508894774, 'w2': 0.12806564656140867, 'w3': 0.26737124957122815, 'w4': 0.3046408764059242, 'w5': 0.24750684237249118}
+Train Score: 0.35
+Test Score: 0.24
+
+Run Number: 134
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.020047493711672894, 'w2': 0.11604817565164191, 'w3': 0.29122155350829776, 'w4': 0.33024656553313736, 'w5': 0.24243621159525006}
+Train Score: 0.33
+Test Score: 0.215
+
+Run Number: 135
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.04503948808314855, 'w2': 0.07605096120794305, 'w3': 0.1963675417746325, 'w4': 0.3425136108269644, 'w5': 0.3400283981073115}
+Train Score: 0.38
+Test Score: 0.25
+
+Run Number: 136
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.08881037411815465, 'w2': 0.14080092269281638, 'w3': 0.23113972700411914, 'w4': 0.22581265406987955, 'w5': 0.31343632211503025}
+Train Score: 0.36
+Test Score: 0.33
+
+Run Number: 137
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.06080988759406264, 'w2': 0.12863016618702924, 'w3': 0.16986933616198124, 'w4': 0.30683412887112727, 'w5': 0.3338564811857997}
+Train Score: 0.415
+Test Score: 0.225
+
+Run Number: 138
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.06592729039167383, 'w2': 0.13036187934182997, 'w3': 0.1950380852662434, 'w4': 0.3268937493951062, 'w5': 0.28177899560514663}
+Train Score: 0.38
+Test Score: 0.29
+
+Run Number: 139
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.049909549617790504, 'w2': 0.16916188933468174, 'w3': 0.17666768684009385, 'w4': 0.21991654384374767, 'w5': 0.3843443303636863}
+Train Score: 0.29
+Test Score: 0.28
+
+Run Number: 140
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.020079397100016116, 'w2': 0.051161719835347556, 'w3': 0.32025134078351475, 'w4': 0.31003400469571685, 'w5': 0.2984735375854046}
+Train Score: 0.345
+Test Score: 0.255
+
+Run Number: 141
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.03736734855606608, 'w2': 0.15118385555195119, 'w3': 0.16033003469448445, 'w4': 0.3740588232483749, 'w5': 0.2770599379491233}
+Train Score: 0.365
+Test Score: 0.32
+
+Run Number: 142
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.0535869008510023, 'w2': 0.10720725624583384, 'w3': 0.24853943307647738, 'w4': 0.29889458192236773, 'w5': 0.29177182790431866}
+Train Score: 0.36
+Test Score: 0.275
+
+Run Number: 143
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.024973783187302697, 'w2': 0.08786106886996663, 'w3': 0.2496679128071046, 'w4': 0.30583461235923487, 'w5': 0.33166262277639114}
+Train Score: 0.295
+Test Score: 0.255
+
+Run Number: 144
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.015388801997508127, 'w2': 0.1574884852940335, 'w3': 0.2862226147652138, 'w4': 0.3462778564264406, 'w5': 0.19462224151680405}
+Train Score: 0.345
+Test Score: 0.245
+
+Run Number: 145
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.07625724979618548, 'w2': 0.1937131279851377, 'w3': 0.21698815512300973, 'w4': 0.23872931527335556, 'w5': 0.2743121518223116}
+Train Score: 0.355
+Test Score: 0.275
+
+Run Number: 146
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05817660930620456, 'w2': 0.09123986247125775, 'w3': 0.3077550596480602, 'w4': 0.30269698511927157, 'w5': 0.24013148345520594}
+Train Score: 0.33
+Test Score: 0.29
+
+Run Number: 147
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.011848998299716525, 'w2': 0.17354740684827985, 'w3': 0.3210043243599662, 'w4': 0.2856318632509978, 'w5': 0.20796740724103968}
+Train Score: 0.265
+Test Score: 0.25
+
+Run Number: 148
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.06491355418141592, 'w2': 0.1025559037505019, 'w3': 0.2375220873911958, 'w4': 0.3055942371784096, 'w5': 0.2894142174984768}
+Train Score: 0.36
+Test Score: 0.325
+
+Run Number: 149
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.07224366879583691, 'w2': 0.11613703281240675, 'w3': 0.15104122374455606, 'w4': 0.3418484674674521, 'w5': 0.318729607179748}
+Train Score: 0.345
+Test Score: 0.27
+
+Run Number: 150
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.06400532324797513, 'w2': 0.10490855727013972, 'w3': 0.2539806377014226, 'w4': 0.27818096581784824, 'w5': 0.29892451596261427}
+Train Score: 0.33
+Test Score: 0.305
+
+Run Number: 151
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05348754452285696, 'w2': 0.14356453603574443, 'w3': 0.2121609534040521, 'w4': 0.3833434636256652, 'w5': 0.20744350241168125}
+Train Score: 0.35
+Test Score: 0.29
+
+Run Number: 152
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.014445647389702151, 'w2': 0.06531712548728073, 'w3': 0.23361536961840237, 'w4': 0.3780948638802252, 'w5': 0.3085269936243896}
+Train Score: 0.33
+Test Score: 0.285
+
+Run Number: 153
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.02742835538736385, 'w2': 0.18408777614097474, 'w3': 0.16040276160948874, 'w4': 0.23960753172467705, 'w5': 0.3884735751374957}
+Train Score: 0.385
+Test Score: 0.3
+
+Run Number: 154
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.031689995353885315, 'w2': 0.12181650520078606, 'w3': 0.3538871069621482, 'w4': 0.2324188708605599, 'w5': 0.2601875216226205}
+Train Score: 0.335
+Test Score: 0.19
+
+Run Number: 155
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.068809626026556, 'w2': 0.17011885498178878, 'w3': 0.19581840286274704, 'w4': 0.3643925877084413, 'w5': 0.2008605284204669}
+Train Score: 0.37
+Test Score: 0.24
+
+Run Number: 156
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.015491540193713628, 'w2': 0.08445862616131074, 'w3': 0.26598691392217977, 'w4': 0.32327628238896444, 'w5': 0.3107866373338315}
+Train Score: 0.37
+Test Score: 0.29
+
+Run Number: 157
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.0538055749686403, 'w2': 0.14933853423466728, 'w3': 0.24449659281891173, 'w4': 0.35464898817640894, 'w5': 0.19771030980137175}
+Train Score: 0.33
+Test Score: 0.245
+
+Run Number: 158
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.0509736086164019, 'w2': 0.1513357131161365, 'w3': 0.18398040986711964, 'w4': 0.2397520470289753, 'w5': 0.3739582213713667}
+Train Score: 0.41
+Test Score: 0.26
+
+Run Number: 159
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.04205526328042517, 'w2': 0.05667462390940068, 'w3': 0.22179480089342204, 'w4': 0.3930340678772833, 'w5': 0.28644124403946875}
+Train Score: 0.295
+Test Score: 0.27
+
+Run Number: 160
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.0638737469221861, 'w2': 0.10025543413022416, 'w3': 0.23672522368707527, 'w4': 0.30659190389723384, 'w5': 0.29255369136328063}
+Train Score: 0.3
+Test Score: 0.285
+
+Run Number: 161
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.02532808678871132, 'w2': 0.09352498595246285, 'w3': 0.22093377770523243, 'w4': 0.35738084420730976, 'w5': 0.30283230534628364}
+Train Score: 0.335
+Test Score: 0.285
+
+Run Number: 162
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.02820774361526939, 'w2': 0.13089346740683105, 'w3': 0.2448887546124659, 'w4': 0.2831062553598796, 'w5': 0.31290377900555416}
+Train Score: 0.305
+Test Score: 0.255
+
+Run Number: 163
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05211490015486161, 'w2': 0.05217874632534487, 'w3': 0.2870895057566849, 'w4': 0.29118826573588097, 'w5': 0.31742858202722757}
+Train Score: 0.33
+Test Score: 0.32
+
+Run Number: 164
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.08058620120138806, 'w2': 0.17889163271025463, 'w3': 0.16877461185796194, 'w4': 0.2582920811936969, 'w5': 0.3134554730366986}
+Train Score: 0.395
+Test Score: 0.26
+
+Run Number: 165
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.031174694152257043, 'w2': 0.1338552043684992, 'w3': 0.2486215447224452, 'w4': 0.2784421984073612, 'w5': 0.3079063583494374}
+Train Score: 0.37
+Test Score: 0.32
+
+Run Number: 166
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05588002195597627, 'w2': 0.08993526721271679, 'w3': 0.21287731513952157, 'w4': 0.36643453764578526, 'w5': 0.2748728580460001}
+Train Score: 0.37
+Test Score: 0.245
+
+Run Number: 167
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.03612276939272864, 'w2': 0.13153712290762704, 'w3': 0.2509709999439687, 'w4': 0.33304048581487344, 'w5': 0.24832862194080216}
+Train Score: 0.34
+Test Score: 0.285
+
+Run Number: 168
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.06942950295325293, 'w2': 0.17146441688179828, 'w3': 0.21475143211959652, 'w4': 0.24774705207216072, 'w5': 0.29660759597319153}
+Train Score: 0.425
+Test Score: 0.35
+
+Run Number: 169
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.026001156551631707, 'w2': 0.163875188890593, 'w3': 0.264463688472674, 'w4': 0.18783900502904577, 'w5': 0.3578209610560556}
+Train Score: 0.33
+Test Score: 0.345
+
+Run Number: 170
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.04223136682558348, 'w2': 0.07474018801117108, 'w3': 0.3495478306042286, 'w4': 0.2912940727610499, 'w5': 0.24218654179796686}
+Train Score: 0.3
+Test Score: 0.255
+
+Run Number: 171
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05227202010969568, 'w2': 0.10357102244933793, 'w3': 0.27758131381737533, 'w4': 0.2327087696836019, 'w5': 0.3338668739399891}
+Train Score: 0.325
+Test Score: 0.245
+
+Run Number: 172
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05717270415803701, 'w2': 0.1300057406468612, 'w3': 0.29196807667359276, 'w4': 0.18897304897205347, 'w5': 0.3318804295494555}
+Train Score: 0.315
+Test Score: 0.32
+
+Run Number: 173
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.02770308412305025, 'w2': 0.10490279286969095, 'w3': 0.2437080326636868, 'w4': 0.34389279080545915, 'w5': 0.2797932995381129}
+Train Score: 0.35
+Test Score: 0.295
+
+Run Number: 174
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.08749060342288213, 'w2': 0.0699941773393606, 'w3': 0.19313290586461532, 'w4': 0.29643553022215546, 'w5': 0.35294678315098643}
+Train Score: 0.33
+Test Score: 0.35
+
+Run Number: 175
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.06443699168641868, 'w2': 0.1379236276655318, 'w3': 0.18891931818212462, 'w4': 0.35065967746858, 'w5': 0.258060384997345}
+Train Score: 0.35
+Test Score: 0.26
+
+Run Number: 176
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.018658047892271202, 'w2': 0.11689298137738051, 'w3': 0.15756693436762848, 'w4': 0.3204492168631572, 'w5': 0.38643281949956265}
+Train Score: 0.335
+Test Score: 0.26
+
+Run Number: 177
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.07132921102396982, 'w2': 0.09938488393209446, 'w3': 0.3220476150184965, 'w4': 0.2578006930614185, 'w5': 0.2494375969640209}
+Train Score: 0.355
+Test Score: 0.275
+
+Run Number: 178
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.021571640859260964, 'w2': 0.100191548177159, 'w3': 0.21471285898960613, 'w4': 0.3380773854234955, 'w5': 0.3254465665504783}
+Train Score: 0.33
+Test Score: 0.24
+
+Run Number: 179
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.08907455769418961, 'w2': 0.16259760866040784, 'w3': 0.31786392957045256, 'w4': 0.2283891102126989, 'w5': 0.20207479386225105}
+Train Score: 0.36
+Test Score: 0.305
+
+Run Number: 180
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.03948079030061677, 'w2': 0.12935485565942, 'w3': 0.32660257036688, 'w4': 0.26734494583386587, 'w5': 0.23721683783921743}
+Train Score: 0.38
+Test Score: 0.235
+
+Run Number: 181
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.08387386750568196, 'w2': 0.0669492018989459, 'w3': 0.25399191386680364, 'w4': 0.35738757793304143, 'w5': 0.23779743879552695}
+Train Score: 0.375
+Test Score: 0.275
+
+Run Number: 182
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.07041751055603498, 'w2': 0.16772203165375552, 'w3': 0.2019777921620939, 'w4': 0.32423419319491065, 'w5': 0.23564847243320491}
+Train Score: 0.31
+Test Score: 0.285
+
+Run Number: 183
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.059611562410392185, 'w2': 0.11553392433545465, 'w3': 0.24334629431540228, 'w4': 0.3548500635203676, 'w5': 0.2266581554183833}
+Train Score: 0.325
+Test Score: 0.275
+
+Run Number: 184
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.09306666515993353, 'w2': 0.10111197397537054, 'w3': 0.3434048424865129, 'w4': 0.22638006548553963, 'w5': 0.23603645289264338}
+Train Score: 0.3
+Test Score: 0.27
+
+Run Number: 185
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.02679725924231616, 'w2': 0.10105629411539138, 'w3': 0.26563066146677566, 'w4': 0.3229170681520825, 'w5': 0.28359871702343437}
+Train Score: 0.33
+Test Score: 0.255
+
+Run Number: 186
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05816315924165838, 'w2': 0.10509472757556433, 'w3': 0.2389732699091229, 'w4': 0.25528020145090474, 'w5': 0.34248864182274963}
+Train Score: 0.335
+Test Score: 0.3
+
+Run Number: 187
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.06087898828072219, 'w2': 0.17187470814026104, 'w3': 0.257833523445488, 'w4': 0.29399192625186177, 'w5': 0.21542085388166707}
+Train Score: 0.35
+Test Score: 0.26
+
+Run Number: 188
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.07144263957278241, 'w2': 0.14737465112046502, 'w3': 0.1507046387512165, 'w4': 0.2797415348842325, 'w5': 0.3507365356713036}
+Train Score: 0.395
+Test Score: 0.28
+
+Run Number: 189
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.044470954108668165, 'w2': 0.11126105605407771, 'w3': 0.2915173235034605, 'w4': 0.2630484371075205, 'w5': 0.289702229226273}
+Train Score: 0.36
+Test Score: 0.32
+
+Run Number: 190
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.020037479113485093, 'w2': 0.09228066276206101, 'w3': 0.24748307742981268, 'w4': 0.37968464181898165, 'w5': 0.26051413887565944}
+Train Score: 0.295
+Test Score: 0.3
+
+Run Number: 191
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.010397923720697205, 'w2': 0.09614078072080262, 'w3': 0.25425505771218626, 'w4': 0.4104576977186221, 'w5': 0.22874854012769172}
+Train Score: 0.32
+Test Score: 0.29
+
+Run Number: 192
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.05618334139250059, 'w2': 0.12784554046060637, 'w3': 0.23808566371539744, 'w4': 0.19869148757412697, 'w5': 0.37919396685736867}
+Train Score: 0.375
+Test Score: 0.3
+
+Run Number: 193
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.04202775688259161, 'w2': 0.07355828135079719, 'w3': 0.3118290854279936, 'w4': 0.2334567771677152, 'w5': 0.33912809917090236}
+Train Score: 0.345
+Test Score: 0.28
+
+Run Number: 194
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.07453531058392089, 'w2': 0.13398718905263424, 'w3': 0.18959943771411722, 'w4': 0.23073997670662166, 'w5': 0.371138085942706}
+Train Score: 0.355
+Test Score: 0.35
+
+Run Number: 195
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.04915832485009374, 'w2': 0.12410457687050186, 'w3': 0.17430550819622861, 'w4': 0.383575671725518, 'w5': 0.2688559183576578}
+Train Score: 0.355
+Test Score: 0.275
+
+Run Number: 196
+Parameters: {'frequency_guess_percentage': 0.4, 'w1': 0.07513136223789485, 'w2': 0.1921857010980827, 'w3': 0.15447127854495007, 'w4': 0.3019539353680932, 'w5': 0.2762577227509792}
+Train Score: 0.42
+Test Score: 0.265
+
